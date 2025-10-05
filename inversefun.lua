@@ -5,3 +5,4 @@ doinversefunc = kilometers / 1.609
 return kilometers / 1.609
 end
 inversefunc()
+print(kilometers .. " is " .. inversefunc() .. " miles "
